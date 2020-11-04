@@ -21,7 +21,7 @@ We're going to build a simple weather app. It will display:
 5. The forecast for the week.
 6. The current Humidity level, Wind level, and Rainfall.
 
-[I have put together a design for you](figma.com/file/EwKTxUtqWVVUuyyuAHpUbH/Pathfinder-Weather). All of the pictures and assets you'll need are in the `images/` folder. 
+[I have put together a design for you](https://www.figma.com/file/EwKTxUtqWVVUuyyuAHpUbH/Pathfinder-Weather?node-id=0%3A1). All of the pictures and assets you'll need are in the `images/` folder. 
 
 ## Phase One: HTML and CSS
 
